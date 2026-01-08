@@ -1,6 +1,6 @@
 # Registro-de-hu-spedes---hotel
 Sistema web para el registro y control de huéspedes de hotel, desarrollado con PHP y MySQL.
-El proyecto nace ante la creciente carga operativa de un hotel en Poza Rica, Veracruz, con el objetivo de reemplazar el uso de hojas de cálculo en Excel por un sistema digital de registro de huéspedes, mejorando la eficiencia del personal y la experiencia del huésped.
+El proyecto nace ante la creciente carga operativa de un hotel en Poza Rica, Veracruz, con el objetivo de reemplazar el uso de hojas de cálculo en Excel por un sistema digital de registro de huéspedes, mejorando la eficiencia del personal y la experiencia del cliente.
 
 <img width="811" height="578" alt="image" src="https://github.com/user-attachments/assets/9d0eca13-80b0-4894-9450-05fc7f6a83ce" />
 <img width="1365" height="622" alt="image" src="https://github.com/user-attachments/assets/903f5b49-cfca-441f-a3ab-f9bd2bec1082" />
